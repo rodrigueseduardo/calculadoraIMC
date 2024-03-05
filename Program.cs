@@ -10,7 +10,7 @@ while (continuar)
     Console.WriteLine("Digite a sua altura em metros: ");
     double altura = Convert.ToDouble(Console.ReadLine());
 
-    //calculo do imc
+    //calculo do imc puxando o método criado no final do código
     double imc = CalcularIMC(peso, altura);
 
     //exibe o IMC e categoria do peso
@@ -27,11 +27,9 @@ while (continuar)
 
     //pergunta ao usuário se deseja que o cálculo seja realizado novamente
     Console.Write("\nDeseja que o cálculo seja realizado novamente? (S/N): ");
-    string resposta = Console.ReadLine().ToUpper();
-
-    if (resposta == "S");
+    string resposta = Console.ReadLine().ToUpper() == "S" ? "S" : "N";
         
-        else break;
+        continuar = resposta == "S";
 }
 
 Console.WriteLine("\nObrigado por utilizar minha calculadora de IMC!");
