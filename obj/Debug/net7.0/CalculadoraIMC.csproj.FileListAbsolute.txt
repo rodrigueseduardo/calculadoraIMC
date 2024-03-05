@@ -1,0 +1,14 @@
+/Users/eduardorodrigues/Documents/CalculadoraIMC/bin/Debug/net7.0/CalculadoraIMC
+/Users/eduardorodrigues/Documents/CalculadoraIMC/bin/Debug/net7.0/CalculadoraIMC.deps.json
+/Users/eduardorodrigues/Documents/CalculadoraIMC/bin/Debug/net7.0/CalculadoraIMC.runtimeconfig.json
+/Users/eduardorodrigues/Documents/CalculadoraIMC/bin/Debug/net7.0/CalculadoraIMC.dll
+/Users/eduardorodrigues/Documents/CalculadoraIMC/bin/Debug/net7.0/CalculadoraIMC.pdb
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.AssemblyInfoInputs.cache
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.AssemblyInfo.cs
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.csproj.CoreCompileInputs.cache
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.dll
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/refint/CalculadoraIMC.dll
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.pdb
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/CalculadoraIMC.genruntimeconfig.cache
+/Users/eduardorodrigues/Documents/CalculadoraIMC/obj/Debug/net7.0/ref/CalculadoraIMC.dll
