@@ -27,7 +27,7 @@ while (continuar)
 
     //pergunta ao usuário se deseja que o cálculo seja realizado novamente
     Console.Write("\nDeseja que o cálculo seja realizado novamente? (S/N): ");
-    string resposta = Console.ReadLine().ToUpper() == "S" ? "S" : "N";
+    string resposta = Console.ReadLine().ToUpper();
         
         continuar = resposta == "S";
 }
