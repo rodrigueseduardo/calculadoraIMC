@@ -29,7 +29,7 @@ while (continuar)
     Console.Write("\nDeseja que o cálculo seja realizado novamente? (S/N): ");
     string resposta = Console.ReadLine().ToUpper();
         
-        continuar = resposta == "S";
+        continuar = resposta == "S" ? true : false;
 }
 
 Console.WriteLine("\nObrigado por utilizar minha calculadora de IMC!");
